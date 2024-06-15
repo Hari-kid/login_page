@@ -1,0 +1,37 @@
+body{
+    background-color: lightgreen;
+}
+div{
+    display: block;
+    width: 410px;
+    height: 350px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 200px;
+       
+}
+#box1{
+    margin-top: 55px;
+    margin-left: 50px;
+    padding: 10px;
+    width:285px;
+    
+}
+#box2{
+    margin-top: 25px;
+    margin-left: 50px;
+    padding: 10px;
+    width:285px;
+}
+
+button{
+    margin-top: 25px;
+    margin-left: 50px;
+    padding: 14px;
+    width:310px;
+    background-color: lightgreen;
+    border: none;
+}
+p{    
+    margin-left:90px;
+}
